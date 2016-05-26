@@ -1,3 +1,4 @@
+var express = require('express');
 var app = require('express')();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
@@ -7,6 +8,8 @@ var swerve = [];
 var busy = [];
 var scores = [];
 var usersOn = 0;
+
+app.use(express.static(__dirname + '/'));
 
 app.get('/', function(reg, res){
 	res.sendFile(__dirname + '/chicken.html');
