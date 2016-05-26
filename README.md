@@ -9,13 +9,13 @@ anyways here's the 411
 
 - log onto http://localhost:3000 on two computers
 
-![alt tag](http://imgur.com/e9rLGDz)
+![Imgur](http://i.imgur.com/e9rLGDz.png)
 
 - click 'ready' on both computers
 
 - click 'stay' or 'swerve' before your car gets too close to the other car
 
-![alt tag](http://imgur.com/OnX0Dlk)
+![](http://imgur.com/OnX0Dlk)
 
-![alt tag](http://imgur.com/bsC1r7N)
+![](http://imgur.com/bsC1r7N)
 
