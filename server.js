@@ -26,7 +26,6 @@ io.on('connection', function(socket){
 	userSocket[user].emit('onon',user);
 	userSocket[user].emit('userCount',usersOn);
 	console.log(user + 'connected');
-	console.log(socket);
 	
 	socket.on('match ready', function(msg){
 		if (busy[user] == 0) {
