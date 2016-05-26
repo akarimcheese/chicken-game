@@ -1,0 +1,43 @@
+<!doctype HTML>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="chicken.css">
+    </head>
+    <body>
+        
+        <div id="road">
+            <div id="road-black"></div>
+            <div id="road-yellow" class="pause"></div>
+            <div id="opp-steer">
+                <div id="opp-car-top" class="pause"></div>
+            </div>
+            
+        </div>
+        <div id="car">
+            <div id="player-car-back"></div>
+            <div id="player-car-top"></div>
+        </div>
+        
+        <div id="opp-container">
+            <div id="opp-car" class="pause"></div>
+        </div>
+        
+        <div id="pop">Users online: 1</div>
+        <div id="GUI">Waiting for player</div>
+        <button id="getMatch">Ready</button>
+        <button id="swerve">Swerve</button>
+        <button id="stay">Stay</button>
+        <div id="currentAction">Current action: Stay</div>
+        <div id="score">Score: 0</div>
+        <div id="minimap">
+            <div id="break1"></div>
+            <div id="break2"></div>
+            <div id="redbloop" class="pause"></div>
+            <div id="bluebloop" class="pause"></div>
+        </div>
+        
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+        <script src="chicken.js"></script>
+    </body>
+</html>
