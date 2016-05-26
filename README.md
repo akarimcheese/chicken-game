@@ -15,7 +15,7 @@ anyways here's the 411
 
 - click 'stay' or 'swerve' before your car gets too close to the other car
 
-![](http://imgur.com/OnX0Dlk)
+![Imgur](http://i.imgur.com/OnX0Dlk.png)
 
-![](http://imgur.com/bsC1r7N)
+![Imgur](http://i.imgur.com/bsC1r7N.png)
 
