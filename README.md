@@ -7,7 +7,7 @@ anyways here's the 411
 
 - run node server.js in your terminal
 
-- log onto http://localhost:3000 on windows
+- log onto http://localhost:3000 on two windows
 
 ![Imgur](http://i.imgur.com/e9rLGDz.png)
 
